@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
             //ajout dans la branche 'ajout_writeline'
             Console.WriteLine("Hello, World! asdf");
+            string x = "Hello World";
         }
 
         //ajout de cette méthode dans la brache 'main'
